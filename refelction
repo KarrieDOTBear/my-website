@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+</head>
+<body>
+
+<h1>Reflection</h1>
+
+<p>When I started this project, I thought it would be pretty simple. I had my HTML file, my images, and a general idea of what I needed to do. Then I opened GitHub and immediately felt like I had walked into a room where everyone else already knew the rules. I clicked around way more than I’d like to admit, trying to figure out what was a folder, what was a file, and what I should absolutely not touch.</p>
+
+<p>The first real challenge was getting my files to show up the way I expected. I learned fast that naming the main file index.html isn’t optional. I also ran into a problem where my images refused to load, and after staring at the screen for too long, I realized I had put them in the wrong spot. Fixing that felt like a tiny win, but a win is a win.</p>
+
+<p>Creating the second page for my reflection was the moment things finally started to make sense. Linking the two pages together felt surprisingly satisfying. It wasn’t fancy, but it worked, and seeing it live on the internet felt a little surreal.</p>
+
+<p>What I took away from this is that publishing something without a platform doing the heavy lifting is a different kind of work. It’s slower, and sometimes frustrating, but it also feels more hands on. When something breaks, you have to figure it out. When something works, you know you made it happen. I didn’t expect to enjoy that part as much as I did.</p>
+
+<p><a href="index.html">Back to main page</a></p>
+
+</body>
+</html>
+
